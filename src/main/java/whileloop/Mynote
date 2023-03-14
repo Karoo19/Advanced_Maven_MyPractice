@@ -1,0 +1,11 @@
+control Statement
+-----------------
+1)conditional statements
+2)looping statements/iterative
+3)jumping statements
+------
+1)conditional statements:
+ if
+ if else
+ nested if else
+ switch case

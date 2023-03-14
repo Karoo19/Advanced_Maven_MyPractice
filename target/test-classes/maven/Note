@@ -28,6 +28,17 @@ WorkFlow:
 3)git push -u origin master
 
 -----------------------------------------------------------------------------------------------------------------------
+once you will create file in github 
+TC 00_java
+Go to eclipse refresh    nothing
+git pull
+
+git pull  --> get files from github to workspace
+
+----------------------------------------------------------------------------------------------------------------------
+git clone-- get entire project into your workspace
+git clone "github repo url" <folder>
+-----------------------------------------------------------------------------------------------------------------------
 create remote repository in github:
 https://github.com/Karoo19/Advanced_Maven_MyPractice.git     --> create repository in github
 
